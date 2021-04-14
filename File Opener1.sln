@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File Opener1", "File Opener1.csproj", "{CBDA1E13-406D-43FD-A574-424BC21FB1F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBDA1E13-406D-43FD-A574-424BC21FB1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDA1E13-406D-43FD-A574-424BC21FB1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDA1E13-406D-43FD-A574-424BC21FB1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDA1E13-406D-43FD-A574-424BC21FB1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EE6D961-50EC-41EB-AB2B-02136AFB7C89}
+	EndGlobalSection
+EndGlobal
